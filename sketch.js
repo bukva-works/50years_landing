@@ -10,4 +10,5 @@ function draw() {
     noFill();
   }
     rect(mouseX, mouseY, 15, 30);
+    rect(mouseX+40, mouseY, 15, 30);
 }
