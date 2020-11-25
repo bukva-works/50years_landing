@@ -36,7 +36,7 @@
 <body>
     <main>
         <div class="text">
-            <p class="info">double pen web /// press left mouse button to draw with black</p>
+            <p class="info">double pen web /// press left mouse button to draw with white</p>
             <h2 class="header">YOU CAN DRAW<br>IF YOU WISH</h2>
         </div>
             
